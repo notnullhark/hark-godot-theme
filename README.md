@@ -7,6 +7,6 @@
 ### Main Font Bold - `JetBrainsMonoNL - Bold`
 ### Code Font - `JetBrainsMonoNL - Regular`
 
-## ![Settings](image.png)
+### ![Settings](image.png)
 
 ## Ayu Theme :)
